@@ -11,9 +11,10 @@ In this project I mainly needed to focus on QR code component design.
 This is a Bitcamp fall 2022 challenge number 1. Challenge is to make a page look as close to the design as possible.
 
 ## Link
-Live Site URL: [Demo live](https://notoriousgg.github.io/QR-code-components/)
+* Solution URL: [Github code](https://github.com/Notoriousgg/QR-code-components)
+* Live Site URL: [Demo live](https://notoriousgg.github.io/QR-code-components/)
 
-## Process
+## My Process
 * Changed the background colour
 * Created a card element
 * Added image into a card
@@ -21,11 +22,21 @@ Live Site URL: [Demo live](https://notoriousgg.github.io/QR-code-components/)
 * Styled a card element
 * Styled text elements
 
-## Built with
-* HTML
+### Built with
+* HTML5
 * CSS
+* Flexbox
+
+### What I learned
+Working on this project I learned how to use flexbox, how to customize the elements interface using css, etc. In short, everything that you see in the code, I learned in the process of making the project and from different sources.
+
+### Continued development
+This is my first project, I continue to learn and develop. At this point I am interested in front end but I don't know exactly because I am new in this field and I may think differently when I get to know the world of development.
 
 ## Author
 * Github - [Giorgi Gogilashvili](https://github.com/Notoriousgg)
 * Linkedin - [Giorgi Gogilashvili](https://www.linkedin.com/in/giorgi-gogilashvili-48589319b/)
+
+## Acknowledgments
+This project is a bitcamp fall 2022 challenge 1. Therefore, the person who explains well and whose videos I watch is Oto Zakalashvili. My recommendation to Oto Zakalashvili
 
